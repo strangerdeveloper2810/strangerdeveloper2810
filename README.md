@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MainIT2810](https://github.com/MainIT2810)
 
-- 📫 How to reach me **nguyenmaster3012@gmail.com**
+- 📫 How to reach me **n.haitrinh2810@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
