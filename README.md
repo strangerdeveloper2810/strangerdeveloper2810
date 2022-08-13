@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **MERN Stack, Golang**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MainIT2810](https://github.com/MainIT2810)
+- 👨‍💻 All of my projects are available at [https://github.com/strangerdeveloper2810](https://github.com/strangerdeveloper2810)
 
 - 📫 How to reach me **n.haitrinh2810@gmail.com**
 
