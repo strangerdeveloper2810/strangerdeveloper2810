@@ -3,9 +3,9 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" height="175px"/></a>
 
-- 🔭 I’m currently working on **WNESS**
+- 🔭 I’m currently working on **EDS/ Bolt Technologies**
 
-- 🌱 I’m currently learning **Spring Framework, Angualar,Devops, Cloud Computing**
+- 🌱 I’m currently learning **Spring Framework, Angualar,Devops, Cloud Computing, Golang, Flutter, Nest.js**
 
 - 💬 Ask me about **Frontend Development, React.js, Next.js**
 
