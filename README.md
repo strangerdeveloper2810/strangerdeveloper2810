@@ -3,7 +3,7 @@
 
 <div align="center">
   <!-- Typing SVG (Responsive & Centered) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=61AFEF&center=true&vcenter=true&width=520&height=45&lines=Senior+Software+Engineer+%40+Loanfactory;React+19+%7C+Next.js+16+%7C+Go+(Gin)+%7C+TypeScript;High-Impact+Fintech+%26+Healthcare+Systems;Senior+Engineer+%E2%86%92+Tech+Lead+%E2%86%92+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=61AFEF&center=true&vcenter=true&width=520&height=45&lines=Senior+Software+Engineer+%40+Loanfactory;React+%7C+Next.js+(Pages+%26+App+Router)+%7C+Go+%7C+TypeScript;High-Impact+Fintech+%26+Healthcare+Systems;Senior+Engineer+%E2%86%92+Tech+Lead+%E2%86%92+Architect" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://github.com/strangerdeveloper2810">
@@ -26,7 +26,7 @@
 
 ```text
 ⚡ Senior Software Engineer (React & Go) at Loanfactory with 4+ years of experience delivering high-impact web & mobile applications across Fintech, Banking, Healthcare, and IoT.
-🎯 Specialized in React 19, Next.js 16 (App Router), Go (Gin), Node/Nest.js, microservices architecture, and real-time data processing.
+🎯 Specialized in React, Next.js (Pages & App Router), Go (Gin), Node/Nest.js, microservices architecture, and real-time data processing.
 💡 Career Trajectory: Senior Software Engineer → Tech Lead (Engineering & Product Leadership) → Software Architect (Large-Scale Distributed Systems).
 ```
 
@@ -50,8 +50,8 @@
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 
 #### **Frontend & Mobile Stack**
-![React](https://img.shields.io/badge/React.js_19-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js_16_(App_Router)-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js_(Pages_%26_App_Router)-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native_(RN_CLI)-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 
