@@ -57,6 +57,17 @@ strangerdeveloper2810@loanfactory:~$ neofetch --profile
 
 ---
 
+### 📌 Featured Projects & Engineering Highlights
+
+| Project | Description | Tech Stack | Link / Status |
+| :--- | :--- | :--- | :---: |
+| 🛠️ **LG V50 Automation Toolkit** | CLI automation toolkit for custom ROM extraction, debloating, optimization & repacking on macOS/Linux. | `Bash` `Android` `macOS` | [Repository](https://github.com/strangerdeveloper2810/lgv50-custom-rom-toolkit) |
+| 💼 **Multi-Tenant HR SaaS** | Multi-tenant HR/ATS SaaS platform with AI candidate matching, tRPC, & real-time SSE live monitoring. | `React 19` `tRPC` `NestJS` `PostgreSQL` | [Live Demo](https://hr-tool-software.netlify.app) |
+| 🏥 **Caresa HIS & Patient App** | Healthcare Information System & Patient Companion App with EMR viewer, encounter queues & FCM push. | `React Native` `Go/Gin` `TanStack Query` | Enterprise |
+| 📈 **Nano Derivatives Trading** | MXV licensed derivatives trading platform with Web Worker OHLC processing & TradingView datafeed. | `React 19` `GraphQL` `Socket.io` | MXV Enterprise |
+
+---
+
 ### 🛠️ Technical Ecosystem
 
 #### **Core & Languages**
@@ -117,6 +128,12 @@ strangerdeveloper2810@loanfactory:~$ neofetch --profile
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=strangerdeveloper2810&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Activity Wave Graph" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Dev Joke" />
+</div>
+
 ---
 
 ### 🌐 Connect with Me
@@ -141,3 +158,7 @@ strangerdeveloper2810@loanfactory:~$ neofetch --profile
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=strangerdeveloper2810&color=61afef&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=61afef&height=100&section=footer" width="100%" />
