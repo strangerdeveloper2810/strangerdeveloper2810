@@ -3,7 +3,7 @@
 
 <div align="center">
   <p align="center">
-    <code>React</code> • <code>Next.js (Pages & App Router)</code> • <code>Go (Gin)</code> • <code>TypeScript</code> • <code>Microservices</code>
+    <code>React</code> • <code>Next.js (Pages & App Router)</code> • <code>Go (Gin)</code> • <code>TypeScript</code>
   </p>
 
   <p align="center">
@@ -26,21 +26,20 @@
 ### 🚀 Professional Summary
 
 ```text
-⚡ Senior Software Engineer (React & Go) at Loanfactory with 4+ years of experience delivering high-impact web & mobile applications across Fintech, Banking, Healthcare, and IoT.
-🎯 Specialized in React, Next.js (Pages & App Router), Go (Gin), Node/Nest.js, microservices architecture, and real-time data processing.
-💡 Career Trajectory: Senior Software Engineer → Tech Lead (Engineering & Product Leadership) → Software Architect (Large-Scale Distributed Systems).
+⚡ Senior Software Engineer (React & Go) at Loanfactory with 4+ years of experience building high-impact web and mobile applications across Fintech, Banking, Healthcare, and IoT.
+🎯 Core Focus: Type-safe architectures, clean code, performance optimization, and developer tooling.
+💡 Career Trajectory: Senior Software Engineer → Tech Lead → Software Architect.
 ```
 
 - 🏢 **Current Role**: Senior Software Engineer (React & Go) at **Loanfactory**
-- 🛠️ **Core Specialization**: High-performance React / Next.js / TypeScript frontend + Go (Gin) & Nest.js microservices backend
-- ⚡ **Performance & Architecture**: Experienced in micro-frontends, server-side data fetching, OLAP databases (StarRocks), Redis caching, and real-time WebSockets / SSE
-- 📱 **Mobile & Cross-Platform**: React Native (RN CLI, Fabric architecture, NativeWind)
-- 🤖 **AI-Assisted Workflow**: Power user of **Cursor Pro**, **Claude Code Max**, and **Gemini CLI** for accelerated development, automated refactoring, and high-coverage testing
+- 🛠️ **Core Stack**: React, Next.js (Pages & App Router), TypeScript, Go (Gin), Node/Nest.js
+- ⚡ **Strengths**: Type-safe APIs, state management, performance optimization, and cross-platform mobile apps (React Native)
+- 🤖 **Developer Tooling**: Power user of **Cursor Pro**, **Claude Code Max**, and **Gemini CLI** for fast prototyping & high test coverage
 - 📍 **Location**: Ho Chi Minh City, Vietnam | ✉️ **n.haitrinh2810@gmail.com**
 
 ---
 
-### 🖥️ System Spec & Engineering Status
+### 🖥️ System Spec & Profile Status
 
 ```bash
 strangerdeveloper2810@loanfactory:~$ neofetch --profile
@@ -50,9 +49,9 @@ strangerdeveloper2810@loanfactory:~$ neofetch --profile
        ___      ___          OS: Ho Chi Minh City, Vietnam 🇻🇳
      /  /     /  /          ROLE: Senior Software Engineer (React & Go) @ Loanfactory
     /  /     /  /           EXPERIENCE: 4+ Years (Fintech, Banking, Healthcare, IoT)
-   /  /_____/  /            CORE STACK: React | Next.js (Pages & App Router) | Go (Gin)
-  /  ______   /             DATABASE: PostgreSQL | StarRocks (OLAP) | Redis
- /  /     /  /              ARCH: Microservices | Micro-frontends | SSE & WebSockets
+   /  /_____/  /            FRONTEND: React | Next.js (Pages & App Router) | React Native
+  /  ______   /             BACKEND: Go (Gin) | Node.js | Nest.js | PostgreSQL | Redis
+ /  /     /  /              FOCUS: Type-Safe APIs | Performance | Clean Code
 /__/     /__/               AI TOOLS: Cursor Pro | Claude Code Max | Gemini CLI
 ```
 
@@ -86,19 +85,18 @@ strangerdeveloper2810@loanfactory:~$ neofetch --profile
 ![Zustand](https://img.shields.io/badge/Zustand-443e38?style=flat-square)
 ![Redux](https://img.shields.io/badge/Redux_(Toolkit%2FSaga)-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Apollo GraphQL](https://img.shields.io/badge/Apollo_GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white)
-![tRPC](https://img.shields.io/badge/tRPC_11-2563EB?style=flat-square&logo=trpc&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2563EB?style=flat-square&logo=trpc&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 
 #### **Backend, Databases & Infra**
 ![Go](https://img.shields.io/badge/Go_(Gin)-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/Nest.js_11-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![StarRocks](https://img.shields.io/badge/StarRocks_(OLAP)-0052CC?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
