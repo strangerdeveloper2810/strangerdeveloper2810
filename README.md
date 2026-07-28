@@ -2,8 +2,8 @@
 <h3 align="center">Senior Software Engineer (React & Go) @ Loanfactory</h3>
 
 <div align="center">
-  <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vcenter=true&width=620&height=50&lines=Senior+Software+Engineer+@+Loanfactory;React+19+%7C+Next.js+16+%7C+Go+(Gin)+%7C+TypeScript;High-Impact+Fintech+%26+Healthcare+Systems;Senior+Engineer+%E2%86%92+Tech+Lead+%E2%86%92+Software+Architect" alt="Typing SVG" />
+  <!-- Typing SVG (Responsive & Centered) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=61AFEF&center=true&vcenter=true&width=520&height=45&lines=Senior+Software+Engineer+%40+Loanfactory;React+19+%7C+Next.js+16+%7C+Go+(Gin)+%7C+TypeScript;High-Impact+Fintech+%26+Healthcare+Systems;Senior+Engineer+%E2%86%92+Tech+Lead+%E2%86%92+Architect" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://github.com/strangerdeveloper2810">
@@ -25,8 +25,8 @@
 ### 🚀 Professional Summary
 
 ```text
-⚡ Senior Software Engineer (React & Go) at Loanfactory with 4+ years of experience engineering high-throughput, type-safe web & mobile platforms across Fintech, Banking, Healthcare, and IoT.
-🎯 Specialized in React 19, Next.js 16 (App Router), Go (Gin), Node/Nest.js, microservices architecture, and real-time data pipelines.
+⚡ Senior Software Engineer (React & Go) at Loanfactory with 4+ years of experience delivering high-impact web & mobile applications across Fintech, Banking, Healthcare, and IoT.
+🎯 Specialized in React 19, Next.js 16 (App Router), Go (Gin), Node/Nest.js, microservices architecture, and real-time data processing.
 💡 Career Trajectory: Senior Software Engineer → Tech Lead (Engineering & Product Leadership) → Software Architect (Large-Scale Distributed Systems).
 ```
 
