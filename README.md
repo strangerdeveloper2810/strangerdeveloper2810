@@ -2,8 +2,9 @@
 <h3 align="center">Senior Software Engineer (React & Go) @ Loanfactory</h3>
 
 <div align="center">
-  <!-- Typing SVG (Responsive & Centered) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=61AFEF&center=true&vcenter=true&width=520&height=45&lines=Senior+Software+Engineer+%40+Loanfactory;React+%7C+Next.js+(Pages+%26+App+Router)+%7C+Go+%7C+TypeScript;High-Impact+Fintech+%26+Healthcare+Systems;Senior+Engineer+%E2%86%92+Tech+Lead+%E2%86%92+Architect" alt="Typing SVG" />
+  <p align="center">
+    <code>React</code> • <code>Next.js (Pages & App Router)</code> • <code>Go (Gin)</code> • <code>TypeScript</code> • <code>Microservices</code>
+  </p>
 
   <p align="center">
     <a href="https://github.com/strangerdeveloper2810">
