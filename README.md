@@ -35,7 +35,7 @@
 - ⚡ **Performance & Architecture**: Experienced in micro-frontends, server-side data fetching, OLAP databases (StarRocks), Redis caching, and real-time WebSockets / SSE
 - 📱 **Mobile & Cross-Platform**: React Native (RN CLI, Fabric architecture, NativeWind)
 - 🤖 **AI-Assisted Workflow**: Power user of **Cursor Pro**, **Claude Code Max**, and **Gemini CLI** for accelerated development, automated refactoring, and high-coverage testing
-- 📍 **Location**: Ho Chi Minh City, Vietnam | ✉️ **n.haitrinh2810@gmail.com** | 📞 **0384945724**
+- 📍 **Location**: Ho Chi Minh City, Vietnam | ✉️ **n.haitrinh2810@gmail.com**
 
 ---
 
