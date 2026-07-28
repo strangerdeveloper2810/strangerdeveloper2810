@@ -40,6 +40,24 @@
 
 ---
 
+### 🖥️ System Spec & Engineering Status
+
+```bash
+strangerdeveloper2810@loanfactory:~$ neofetch --profile
+```
+
+```text
+       ___      ___          OS: Ho Chi Minh City, Vietnam 🇻🇳
+     /  /     /  /          ROLE: Senior Software Engineer (React & Go) @ Loanfactory
+    /  /     /  /           EXPERIENCE: 4+ Years (Fintech, Banking, Healthcare, IoT)
+   /  /_____/  /            CORE STACK: React | Next.js (Pages & App Router) | Go (Gin)
+  /  ______   /             DATABASE: PostgreSQL | StarRocks (OLAP) | Redis
+ /  /     /  /              ARCH: Microservices | Micro-frontends | SSE & WebSockets
+/__/     /__/               AI TOOLS: Cursor Pro | Claude Code Max | Gemini CLI
+```
+
+---
+
 ### 🛠️ Technical Ecosystem
 
 #### **Core & Languages**
@@ -95,17 +113,10 @@
 
 ---
 
-### 📊 GitHub Metrics & Activity
+### 📈 Activity & Contribution Wave
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=strangerdeveloper2810&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=strangerdeveloper2810&layout=compact&theme=tokyonight&hide_border=true&hide=python,cython,c" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=strangerdeveloper2810&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=strangerdeveloper2810&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Activity Wave Graph" />
 </div>
 
 ---
