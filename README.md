@@ -3,7 +3,7 @@
 
 <div align="center">
   <p align="center">
-    <code>React</code> • <code>Next.js (Pages & App Router)</code> • <code>Go (Gin)</code> • <code>TypeScript</code>
+    <code>React</code> • <code>Next.js (Pages & App Router)</code> • <code>Go (Gin)</code> • <code>TypeScript</code> • <code>Astro</code>
   </p>
 
   <p align="center">
@@ -45,7 +45,7 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=strangerdeveloper2810&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide=contribs,issues)](https://github.com/strangerdeveloper2810)
 
-[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=strangerdeveloper2810&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=crawl-data-scrapy,shop-app-backend&hide=html,css,scss,hack,python,cython,c,php)](https://github.com/strangerdeveloper2810)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=strangerdeveloper2810&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=crawl-data-scrapy,shop-app-backend&hide=html,css,scss,hack,python,cython,c,php,c%23,csharp,kotlin,ruby,objective-c,objective-c%2B%2B,java,handlebars,shell&langs_count=4)](https://github.com/strangerdeveloper2810)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=strangerdeveloper2810&theme=tokyonight&hide_border=true)](https://github.com/strangerdeveloper2810)
 
@@ -98,6 +98,7 @@ strangerdeveloper2810@cognisian:~$ neofetch --profile
 ![Next.js](https://img.shields.io/badge/Next.js_(Pages_%26_App_Router)-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native_(RN_CLI)-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 
 #### **Styling & UI Components**
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
