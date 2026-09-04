@@ -41,23 +41,15 @@
 
 ### 📈 GitHub Stats & Activity
 
-<p align="center">
-  <a href="https://github.com/strangerdeveloper2810">
-    <img src="https://github-readme-stats.vercel.app/api?username=strangerdeveloper2810&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/strangerdeveloper2810">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strangerdeveloper2810&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" />
-  </a>
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=strangerdeveloper2810&show_icons=true&theme=tokyonight&hide_border=true&v=2)](https://github.com/strangerdeveloper2810)
 
-<p align="center">
-  <a href="https://github.com/strangerdeveloper2810">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=strangerdeveloper2810&theme=tokyo-night&area=true&hide_border=true&v=1" width="100%" alt="Activity Wave Graph" />
-  </a>
-</p>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=strangerdeveloper2810&layout=compact&theme=tokyonight&hide_border=true&v=2)](https://github.com/strangerdeveloper2810)
+
+[![Activity Wave Graph](https://github-readme-activity-graph.vercel.app/graph?username=strangerdeveloper2810&theme=tokyo-night&area=true&hide_border=true&v=2)](https://github.com/strangerdeveloper2810)
+
+</div>
 
 ---
 
