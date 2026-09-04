@@ -41,21 +41,23 @@
 
 ### 📈 GitHub Stats & Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=strangerdeveloper2810&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="GitHub Stats" />
-</div>
+<p align="center">
+  <a href="https://github.com/strangerdeveloper2810">
+    <img src="https://github-readme-stats.vercel.app/api?username=strangerdeveloper2810&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" />
+  </a>
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://github.com/strangerdeveloper2810">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strangerdeveloper2810&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strangerdeveloper2810&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=strangerdeveloper2810&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Activity Wave Graph" />
-</div>
+<p align="center">
+  <a href="https://github.com/strangerdeveloper2810">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=strangerdeveloper2810&theme=tokyo-night&area=true&hide_border=true&v=1" width="100%" alt="Activity Wave Graph" />
+  </a>
+</p>
 
 ---
 
