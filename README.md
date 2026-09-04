@@ -43,9 +43,9 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=strangerdeveloper2810&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/strangerdeveloper2810)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=strangerdeveloper2810&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide=contribs,issues)](https://github.com/strangerdeveloper2810)
 
-[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=strangerdeveloper2810&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/strangerdeveloper2810)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=strangerdeveloper2810&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=crawl-data-scrapy,shop-app-backend&hide=html,css,scss,hack,python,cython,c,php)](https://github.com/strangerdeveloper2810)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=strangerdeveloper2810&theme=tokyonight&hide_border=true)](https://github.com/strangerdeveloper2810)
 
