@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nguyen Hai Trinh</h1>
-<h3 align="center">Senior Software Engineer (React & Go) @ Loanfactory</h3>
+<h3 align="center">Senior Software Engineer (React & Go) @ Cognisian</h3>
 
 <div align="center">
   <p align="center">
@@ -26,12 +26,12 @@
 ### 🚀 Professional Summary
 
 ```text
-⚡ Senior Software Engineer (React & Go) at Loanfactory with 4+ years of experience building high-impact web and mobile applications across Fintech, Banking, Healthcare, and IoT.
+⚡ Senior Software Engineer (React & Go) at Cognisian with 4+ years of experience building high-impact web and mobile applications across Fintech, Banking, Healthcare, and IoT.
 🎯 Core Focus: Type-safe architectures, clean code, performance optimization, and developer tooling.
 💡 Career Trajectory: Senior Software Engineer → Tech Lead → Software Architect.
 ```
 
-- 🏢 **Current Role**: Senior Software Engineer (React & Go) at **Loanfactory**
+- 🏢 **Current Role**: Senior Software Engineer (React & Go) at **Cognisian**
 - 🛠️ **Core Stack**: React, Next.js (Pages & App Router), TypeScript, Go (Gin), Node/Nest.js
 - ⚡ **Strengths**: Type-safe APIs, state management, performance optimization, and cross-platform mobile apps (React Native)
 - 🤖 **Developer Tooling**: Power user of **Cursor Pro**, **Claude Code Max**, and **Gemini CLI** for fast prototyping & high test coverage
@@ -42,12 +42,12 @@
 ### 🖥️ System Spec & Profile Status
 
 ```bash
-strangerdeveloper2810@loanfactory:~$ neofetch --profile
+strangerdeveloper2810@cognisian:~$ neofetch --profile
 ```
 
 ```text
        ___      ___          OS: Ho Chi Minh City, Vietnam 🇻🇳
-     /  /     /  /          ROLE: Senior Software Engineer (React & Go) @ Loanfactory
+     /  /     /  /          ROLE: Senior Software Engineer (React & Go) @ Cognisian
     /  /     /  /           EXPERIENCE: 4+ Years (Fintech, Banking, Healthcare, IoT)
    /  /_____/  /            FRONTEND: React | Next.js (Pages & App Router) | React Native
   /  ______   /             BACKEND: Go (Gin) | Node.js | Nest.js | PostgreSQL | Redis
