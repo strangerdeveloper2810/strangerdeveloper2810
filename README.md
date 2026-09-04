@@ -39,6 +39,26 @@
 
 ---
 
+### 📈 GitHub Stats & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=strangerdeveloper2810&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="GitHub Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strangerdeveloper2810&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=strangerdeveloper2810&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Activity Wave Graph" />
+</div>
+
+---
+
 ### 🖥️ System Spec & Profile Status
 
 ```bash
@@ -135,20 +155,7 @@ strangerdeveloper2810@cognisian:~$ neofetch --profile
 
 ---
 
-### 📈 GitHub Stats & Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=strangerdeveloper2810&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strangerdeveloper2810&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" height="195" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=strangerdeveloper2810&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Activity Wave Graph" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Dev Joke" />
