@@ -61,6 +61,7 @@ strangerdeveloper2810@cognisian:~$ neofetch --profile
 
 | Project | Description | Tech Stack | Link / Status |
 | :--- | :--- | :--- | :---: |
+| 🤖 **J.A.R.V.I.S. AI Agent** | Autonomous AI Agent platform with custom Go ReAct runtime, 3-tier memory & DeepSeek/Gemini/Claude fallback. | `Go 1.25` `Fastify` `MongoDB` | [Live Demo](https://ai.ethansoftwaredeveloper.com/) |
 | 🛠️ **LG V50 Automation Toolkit** | CLI automation toolkit for custom ROM extraction, debloating, optimization & repacking on macOS/Linux. | `Bash` `Android` `macOS` | [Repository](https://github.com/strangerdeveloper2810/lgv50-custom-rom-toolkit) |
 | 💼 **Multi-Tenant HR SaaS** | Multi-tenant HR/ATS SaaS platform with AI candidate matching, tRPC, & real-time SSE live monitoring. | `React 19` `tRPC` `NestJS` `PostgreSQL` | [Live Demo](https://hr-tool-software.netlify.app) |
 | 🏥 **Caresa HIS & Patient App** | Healthcare Information System & Patient Companion App with EMR viewer, encounter queues & FCM push. | `React Native` `Go/Gin` `TanStack Query` | Enterprise |
